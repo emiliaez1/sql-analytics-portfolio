@@ -1,0 +1,34 @@
+-- Query 1: Daily Active Users
+-- Counts how many unique users were active each day
+
+SELECT
+    activity_date,
+    COUNT(DISTINCT user_id) AS daily_active_users
+FROM user_activity
+GROUP BY activity_date
+ORDER BY activity_date;
+
+
+
+-- Query 2: Users per Country
+-- Shows total number of users by country
+
+SELECT
+    country,
+    COUNT(DISTINCT user_id) AS total_users
+FROM users
+GROUP BY country
+ORDER BY total_users DESC;
+
+
+
+-- Query 3: Top Campaigns by Clicks
+-- Lists marketing campaigns ranked by total clicks
+
+SELECT
+    campaign_name,
+    SUM(clicks) AS total_clicks
+FROM campaigns
+GROUP BY campaign_name
+ORDER BY total_clicks DESC
+LIMIT 5;
