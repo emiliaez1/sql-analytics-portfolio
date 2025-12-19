@@ -24,27 +24,27 @@ The results of the project are as follows:
 
 User engagement tracking
 
--Daily active users fluctuates between 13 and 28 users, indicating moderate but consistent engagement
+- Daily active users fluctuates between 13 and 28 users, indicating moderate but consistent engagement
 
--February 4th shows a clear peak (28 users), significantly above the average
+- February 4th shows a clear peak (28 users), significantly above the average
 
--Engagement remains relatively stable after the peak, suggesting no sharp churn
+- Engagement remains relatively stable after the peak, suggesting no sharp churn
 
 Geographic insights
 
--Australia and the US represent the largest portions of the user base
+- Australia and the US represent the largest portions of the user base
 
--User distribution is relatively balanced across regions
+- User distribution is relatively balanced across regions
 
--India has the smallest user count, indicating potential growth opportunity
+- India has the smallest user count, indicating potential growth opportunity
 
 Campaign performance evaluation
 
--Holiday Discount significantly outperforms other campaigns
+- Holiday Discount significantly outperforms other campaigns
 
--Performance drops gradually across the remaining campaigns
+- Performance drops gradually across the remaining campaigns
 
--Promotional and incentive-based campaigns outperform awareness-focused efforts
+- Promotional and incentive-based campaigns outperform awareness-focused efforts
 
 
 
@@ -56,19 +56,19 @@ The analyses in this repository support common decision-making scenarios in prod
 
 User engagement tracking
 
--Daily active user metrics help identify usage trends, measure product adoption, and detect changes in user behavior over time.
+- Daily active user metrics help identify usage trends, measure product adoption, and detect changes in user behavior over time.
 
 Geographic insights
 
--Understanding user distribution by country informs localization strategy, regional marketing spend, and infrastructure planning.
+- Understanding user distribution by country informs localization strategy, regional marketing spend, and infrastructure planning.
 
--Balanced distribution reduces over-reliance on a single market
+- Balanced distribution reduces over-reliance on a single market
 
 Campaign performance evaluation
 
--Campaign performance data helps optimize marketing spend and messaging
+- Campaign performance data helps optimize marketing spend and messaging
 
--Ranking campaigns by clicks and impressions highlights which initiatives generate the most engagement and which underperform.This information can be used to determine which campaigns to scale.
+- Ranking campaigns by clicks and impressions highlights which initiatives generate the most engagement and which underperform.This information can be used to determine which campaigns to scale.
 
 These insights enable teams to prioritize high-impact initiatives, allocate resources more effectively, and monitor performance using clear, repeatable metrics.
 
