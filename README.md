@@ -1,8 +1,10 @@
 SUMMARY
+
 This repository contains SQL analytics projects focused on analyzing user behavior and marketing performance using a structured dataset generated with Python. The dataset simulates real-world product and marketing scenarios, including user signups and geographic distribution, daily user activity, marketing campaigns, and campaign impressions and clicks. All data is provided as CSV files and SQL seed scripts to ensure transparency, reproducibility, and clarity around the analytical assumptions used in the project.
 
 
 QUESTIONS ANSWERED
+
 The following are the questions that are answered in the project:
 - How many daily active users does the product have?
 - How is the user base distributed by country?
@@ -10,6 +12,7 @@ The following are the questions that are answered in the project:
 
 
 DATA ANALYSIS
+
 The results of the project are as follows:
 
 User engagement tracking
@@ -30,6 +33,7 @@ Campaign performance evaluation
 
 
 POTENTIAL BUSINESS IMPACT
+
 The analyses in this repository support common decision-making scenarios in product and marketing teams:
 
 User engagement tracking
@@ -48,6 +52,7 @@ These insights enable teams to prioritize high-impact initiatives, allocate reso
 
 
 RECCOMENDATIONS
+
 Based on the types of analyses performed, typical next steps for a business would include:
 
 - Scale high-performing campaigns 
