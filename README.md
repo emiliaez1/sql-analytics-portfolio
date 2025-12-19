@@ -1,13 +1,5 @@
-sql-analytics-portfolio
-This repository contains SQL analytics projects focused on analyzing user behavior and marketing performance using a structured relational dataset.
-
-DATASET
-The analysis is based on a dataset created with python designed to simulate:
-- User signups and geographic distribution
-- Daily user activity
-- Marketing campaigns
-- Campaign impressions and clicks
-The dataset is included as CSV files and SQL seed scripts to ensure transparency and reproducibility.
+SUMMARY
+This repository contains SQL analytics projects focused on analyzing user behavior and marketing performance using a structured dataset generated with Python. The dataset simulates real-world product and marketing scenarios, including user signups and geographic distribution, daily user activity, marketing campaigns, and campaign impressions and clicks. All data is provided as CSV files and SQL seed scripts to ensure transparency, reproducibility, and clarity around the analytical assumptions used in the project.
 
 
 QUESTIONS ANSWERED
