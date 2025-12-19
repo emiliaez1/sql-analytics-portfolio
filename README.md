@@ -31,13 +31,19 @@ User engagement tracking
 -Engagement remains relatively stable after the peak, suggesting no sharp churn
 
 Geographic insights
+
 -Australia and the US represent the largest portions of the user base
+
 -User distribution is relatively balanced across regions
+
 -India has the smallest user count, indicating potential growth opportunity
 
 Campaign performance evaluation
+
 -Holiday Discount significantly outperforms other campaigns
+
 -Performance drops gradually across the remaining campaigns
+
 -Promotional and incentive-based campaigns outperform awareness-focused efforts
 
 
@@ -49,14 +55,19 @@ POTENTIAL BUSINESS IMPACT
 The analyses in this repository support common decision-making scenarios in product and marketing teams:
 
 User engagement tracking
+
 -Daily active user metrics help identify usage trends, measure product adoption, and detect changes in user behavior over time.
 
 Geographic insights
+
 -Understanding user distribution by country informs localization strategy, regional marketing spend, and infrastructure planning.
+
 -Balanced distribution reduces over-reliance on a single market
 
 Campaign performance evaluation
+
 -Campaign performance data helps optimize marketing spend and messaging
+
 -Ranking campaigns by clicks and impressions highlights which initiatives generate the most engagement and which underperform.This information can be used to determine which campaigns to scale.
 
 These insights enable teams to prioritize high-impact initiatives, allocate resources more effectively, and monitor performance using clear, repeatable metrics.
@@ -69,16 +80,20 @@ RECCOMENDATIONS
 
 Based on the types of analyses performed, typical next steps for a business would include:
 
-- Scale high-performing campaigns 
+- Scale high-performing campaigns
+  
   Increase investment in campaigns that consistently rank high in engagement metrics and test similar messaging or channels.
 
 - Optimize underperforming regions
+  
   For countries with lower activity or adoption, investigate onboarding flows, pricing, or localization opportunities.
 
-- Monitor engagement trends over time 
+- Monitor engagement trends over time
+  
   Track daily active users alongside campaign launches or product changes to understand causal impact.
 
-- Expand analysis with joins and funnels  
+- Expand analysis with joins and funnels
+   
   Connecting user activity with campaign exposure can reveal conversion rates and drop-off points, enabling more targeted optimization.
 
 
