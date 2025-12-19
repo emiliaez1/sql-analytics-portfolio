@@ -8,8 +8,11 @@ This repository contains SQL analytics projects focused on analyzing user behavi
 QUESTIONS ANSWERED
 
 The following are the questions that are answered in the project:
+
 - How many daily active users does the product have?
+  
 - How is the user base distributed by country?
+  
 - Which marketing campaigns drive the most engagement?
 
 
@@ -20,8 +23,11 @@ DATA ANALYSIS
 The results of the project are as follows:
 
 User engagement tracking
+
 -Daily active users fluctuates between 13 and 28 users, indicating moderate but consistent engagement
+
 -February 4th shows a clear peak (28 users), significantly above the average
+
 -Engagement remains relatively stable after the peak, suggesting no sharp churn
 
 Geographic insights
