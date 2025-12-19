@@ -4,7 +4,7 @@ from datetime import datetime, timedelta
 
 random.seed(42)
 
-# ---------- USERS ----------
+# USERS DATASET CREATION
 countries = ["US", "CA", "UK", "IN", "DE", "AU"]
 
 users = []
@@ -18,7 +18,7 @@ with open("users.csv", "w", newline="") as f:
     writer.writerow(["user_id", "signup_date", "country"])
     writer.writerows(users)
 
-# ---------- USER ACTIVITY ----------
+# USER ACTIVITY DATASET CREATION
 activity = []
 for _ in range(300):
     user_id = random.randint(1, 100)
@@ -30,7 +30,7 @@ with open("user_activity.csv", "w", newline="") as f:
     writer.writerow(["user_id", "activity_date"])
     writer.writerows(activity)
 
-# ---------- CAMPAIGNS ----------
+# CAMPAIGNS DATASET CREATION
 campaigns = [
     [1, "Spring Sale"],
     [2, "New User Promo"],
@@ -44,7 +44,7 @@ with open("campaigns.csv", "w", newline="") as f:
     writer.writerow(["campaign_id", "campaign_name"])
     writer.writerows(campaigns)
 
-# ---------- CAMPAIGN EVENTS ----------
+# CAMPAIGN EVENTS DATASET CREATION
 events = []
 for _ in range(100):
     campaign_id = random.randint(1, 5)
