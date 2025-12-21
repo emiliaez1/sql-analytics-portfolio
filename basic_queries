@@ -26,9 +26,10 @@ ORDER BY total_users DESC;
 -- Lists marketing campaigns ranked by total clicks
 
 SELECT
-    campaign_name,
-    SUM(clicks) AS total_clicks
-FROM campaigns
-GROUP BY campaign_name
+    c.campaign_name,
+    SUM(ce.clicks) AS total_clicks
+FROM campaign_events ce
+JOIN campaigns c on c.campaign_id = ce.campaign_id
+GROUP BY c.campaign_name
 ORDER BY total_clicks DESC
 LIMIT 5;
