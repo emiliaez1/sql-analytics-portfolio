@@ -68,7 +68,7 @@ Campaign performance evaluation
 
 - Campaign performance data helps optimize marketing spend and messaging
 
-- Ranking campaigns by clicks and impressions highlights which initiatives generate the most engagement and which underperform.This information can be used to determine which campaigns to scale.
+- Ranking campaigns by clicks and impressions highlights which initiatives generate the most engagement and which underperform. This information can be used to determine which campaigns to scale.
 
 These insights enable teams to prioritize high-impact initiatives, allocate resources more effectively, and monitor performance using clear, repeatable metrics.
 
