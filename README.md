@@ -1,5 +1,5 @@
-SQL Basics — Analytics Queries
-This folder contains foundational SQL queries used in analytics work.
+SQL QUERIES
+This folder contains foundational SQL queries used in aanalysing data.
 
 
 Topics Covered
